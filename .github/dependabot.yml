@@ -22,8 +22,6 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-    # Only increase the manifest requirement when necessary.
-    versioning-strategy: "increase-if-necessary"
     # This is a library; consumers resolve dependencies with their own lockfile.
     # Remove this if the package also builds binaries.
     ignore:
