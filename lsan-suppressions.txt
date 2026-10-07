@@ -1,0 +1,3 @@
+# LeakSanitizer suppressions.
+#
+# LSAN_OPTIONS in .github/workflows/unsafe.yml points at this file.
