@@ -1,6 +1,0 @@
-/target
-**/*.rs.bk
-*~
-*.profraw
-lcov.info
-.DS_Store
